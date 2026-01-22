@@ -32,9 +32,10 @@ body{
 
 
 .pictorial-news-section{
+  background-color:white;
+	text-align:center;
+	  width: 100%; 
 	
-
-
   padding: 10px;
   flex: 0.8;
   display: flex;
